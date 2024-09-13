@@ -1,0 +1,15 @@
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/PedidosApplication.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/amqp/PagamentoListener.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/amqp/PedidosAQMPConfiguration.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/config/Configuracao.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/controller/PedidoController.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/dto/ItemDoPedidoDto.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/dto/PagamentoDto.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/dto/PedidoDto.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/dto/StatusDto.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/model/ItemDoPedido.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/model/Pedido.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/model/Status.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/model/StatusPagamento.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/repository/PedidoRepository.java
+/home/victus/Desktop/BackEnd/Spring Maven/Alura-classes/alurafood/pedidos/src/main/java/br/com/alurafood/pedidos/service/PedidoService.java
