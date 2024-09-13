@@ -4,7 +4,10 @@
 This is a project that was devoloped following along the course: Aprofunde em Java com arquitetura de Microsserviços, Spring e RabbitMQ from Alura.
 
   This is an app that deals with orders, payments and ratings. Each of which is its own service, that all run together with a eureka server, and gateway.
-  The rabbitMQ instances are ran in Docker with the command 'docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.10-management' in the terminal.
+  
+  The rabbitMQ instances are ran in Docker with the command: 
+  
+  'docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.10-management' in the terminal.
 
 ## Running the project
 
